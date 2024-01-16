@@ -9,12 +9,14 @@ Die App erlaubt es, die Dienstpläne individuell für verschiedene Stationen fü
 <img src="Screenshot from 2024-01-15 20-01-37.png">
 
 <h2>Main Features</h2>
-
-- Anlegen von Mitarbeiterprofilen und Schichten
-- Kalenderansicht mit Frühdienst, Spätdienst und Nachtdienst.
-- Drag and Drop Menü um die Mitarbeiterslots zu füllen oder umzuschichten.
-- Counter, der anzeigt, wieviel Stunden ein Mitarbeiter im aktuellen Monat schon gearbeitet hat.
-
+<ul>
+<li>Anlegen von Mitarbeiterprofilen und Schichten</li>
+<li>Kalenderansicht mit Frühdienst, Spätdienst und Nachtdienst.</li>
+<li>Drag and Drop Menü um die Mitarbeiterslots zu füllen oder umzuschichten.</li>
+<li>Counter, der anzeigt, wieviel Stunden ein Mitarbeiter im aktuellen Monat schon gearbeitet hat.</li>
+</ul>
 <h2>Nice-to-have Features</h2>
-- Anzeigzeitraum / zB. Quartalsplanung machen
-- Read-Only-Ansicht für Mitarbeiter
+<ul>
+<li>Anzeigzeitraum / zB. Quartalsplanung machen</li>
+<li>Read-Only-Ansicht für Mitarbeiter</li>
+</ul>
