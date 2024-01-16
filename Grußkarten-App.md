@@ -5,8 +5,7 @@
 Die App erlaubt es, dass du deine eigene Grußkarte erstellst und diese dann teilst über Messengerdienste.
 
 <h2>Wireframes</h2>
-<img src="Bildschirmfoto 2024-01-16 um 10.51.20.png">
-![Alt text](<Bildschirmfoto 2024-01-16 um 10.51.20.png>)
+<img src="./img/Bildschirmfoto 2024-01-16 um 10.51.20.png">
 
 <h2>Main Features</h2>
 <ul>
