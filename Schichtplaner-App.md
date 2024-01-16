@@ -6,8 +6,8 @@ Die App erlaubt es, die Dienstpläne individuell für verschiedene Stationen fü
 
 <h2>Wireframes</h2>
 ![Alt text](<Screenshot from 2024-01-15 20-01-37.png>)
-<img src=".img/Screenshot from 2024-01-15 20-01-37.png">
-<img src=".img/image.png">
+<img src="./img/Screenshot from 2024-01-15 20-01-37.png">
+<img src="./img/image.png">
 
 <h2>Main Features</h2>
 <ul>
