@@ -12,7 +12,7 @@ Die App erlaubt es, die Dienstpläne individuell für verschiedene Stationen fü
 <ul>
 <li>Anlegen von Mitarbeiterprofilen und Schichten</li>
 <li>Kalenderansicht mit Frühdienst, Spätdienst und Nachtdienst.</li>
-<li>Drag and Drop Menü um die Mitarbeiterslots zu füllen oder umzuschichten.</li>
+<li>Drag and Drop Menü um die Mitarbeiterslots zu füllen oder umzuschichten. Bzw. Add-Button bei Mobile.</li>
 <li>Counter, der anzeigt, wieviel Stunden ein Mitarbeiter im aktuellen Monat schon gearbeitet hat.</li>
 </ul>
 <h2>Nice-to-have Features</h2>
